@@ -21,8 +21,6 @@ function Sidebar() {
                 </Button>
             })}
         </div>
-        
-        Sidebar
     </aside>
   )
 }
