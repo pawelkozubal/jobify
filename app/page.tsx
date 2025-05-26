@@ -18,10 +18,9 @@ const HomePage = () => {
             Jobify it.<span className='text-primary'>track it.</span> Land it!
           </h1>
           <p className='leading-loose max-w-md mt-4 '>
-           Jobify is your personal job tracking companion, designed to help you stay on top of every application. 
-           Easily monitor the status of your job submissions,
-            view detailed stats on your progress, and keep everything organized in one place. 
-           Whether you're actively applying or planning your next move, Jobify gives you the clarity and control you need to manage your career journey with confidence.
+           <strong>Jobify</strong> is your personal job tracking companion, designed to help you stay on top of every application. 
+    Easily monitor the status of your job submissions, view detailed stats on your progress, and keep everything organized in one place. 
+    Whether you're actively applying or planning your next move, Jobify gives you the clarity and control you need to manage your career journey with confidence.
           </p>
           <Button asChild className='mt-4'>
             <Link href='/add-job'>Get Started</Link>
