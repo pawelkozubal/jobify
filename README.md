@@ -131,6 +131,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [Shadcn/UI Documentation](https://ui.shadcn.com/docs)
 * [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 * [Zod Documentation](https://zod.dev/)
-* (Add your charting library's documentation link if applicable, e.g., [Recharts](https://recharts.org/en-US/) or [Chart.js](https://www.chartjs.org/))
+* [Recharts](https://recharts.org/en-US/)
 
 ---
